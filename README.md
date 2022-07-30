@@ -29,6 +29,6 @@ We could infer there are 2 main problems that we could solve with predicting bos
 
 ## Goals
 - Create a machine learning model using Linear Regression to predict Boston House Price based on area information
-- Improve machine learning model to increase prediction accuracy
+- Improve machine learning model to increase prediction accuracy by using Regularization
 - Create error distribution
 - Create evalution matrix to show the perfomance of machine learning model to predict Boston House Price
